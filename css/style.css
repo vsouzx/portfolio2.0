@@ -13,7 +13,7 @@
     --second-bg-color: #202020;
     --text-color: #fff;
     --second-color: #ccc;
-    --main-color: #8b2020;
+    --main-color: #970000;
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
@@ -97,7 +97,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(../img/background.jpg);
+    background-image: url(../img/ymbAj6.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -606,7 +606,7 @@ header.sticky{
         position: relative;
         height: 87vh;
         width: 100%;
-        background-image: url(../img/background.jpg);
+        background-image: url(../img/20215.jpg);
         background-size: cover;
         background-position: center;
         display: flex;

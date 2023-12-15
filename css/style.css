@@ -205,6 +205,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: left;
+    margin-top: 5em;
 }
 
 .btn-socials{
@@ -277,7 +278,7 @@ header.sticky{
     font-size: var(--p-font);
     color: var(--second-color);
     line-height: 1.8;
-    margin-bottom: 4rem;
+    margin-bottom: 0.5rem;
 }
 
 .services{

@@ -148,13 +148,26 @@ section{
 .home-text p{
     color: var(--second-color);
     font-size: var(--p-font);
-    margin-bottom: 40px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.link{
+    color: #ccc;
+    transition: .5s;
+}
+
+.link:hover{
+    transition: .5s;
+    color: #e4ab32;
 }
 
 .button{
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    margin-top: 40px;
 }
 
 .btn{

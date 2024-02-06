@@ -659,4 +659,23 @@ header.sticky{
         padding: auto;
         margin: 0 0 5em 1rem;
     }
+
+    .home-text p{
+        color: var(--second-color);
+        font-size: var(--p-font);
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .link{
+        color: #ccc;
+        transition: .5s;
+    }
+    
+    .link:hover{
+        transition: .5s;
+        color: #e4ab32;
+    }
 }
